@@ -29,24 +29,9 @@
 2.  Исходный код написанной программы разместить в
     каталоге: **trunk\\ii0xxyy\\task_01\\src**.
 
-**Task 1. Modeling controlled object**
 
-Let\'s get some object to be controlled. We want to control its
-temperature, which can be described by this differential equation:
+![image](https://github.com/DenisKorpach/University/assets/102619109/4b73e4b6-f5fb-40ba-814e-08679b80dbd2)
 
-��(�)��=�(�)�+�0−�(�)��(1)
-
-where � -- time; �(�) -- input temperature; �(�) -- input warm; �0 --
-room temperature; �,�� -- some constants.
-
-After transformation we get these linear (2) and nonlinear (3) models:
-
-��+1=���+���(2)��+1=���−���−12+���+�sin⁡(��−1)(3)
-
-where � -- time discrete moments (1,2,3...�); �,�,�,� -- some constants.
-
-Task is to write program (**Julia**), which simulates this object
-temperature.
 
 **Код программы**
 
@@ -112,8 +97,7 @@ temperature.
 
 **not_liner_model(a,b,c,d,y,u,t)**
 
-![image](./image1.png){width="1.4305555555555556in"
-height="7.2555555555555555in"}
+![image](https://github.com/DenisKorpach/University/assets/102619109/41924640-dc26-4dfc-920b-9cc91967eb65)<br>
 
-![image](./image2.png){width="6.151388888888889in"
-height="4.115972222222222in"}
+![image](https://github.com/DenisKorpach/University/assets/102619109/33341ca5-b324-4e9f-81df-cb9b57f9eb85)
+
