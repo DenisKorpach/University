@@ -3,7 +3,7 @@
 **Заданный граф** - (1,2),(1,3),(1,4),(2,3),(2,4),(3,4),(5,6),(6,7),(8,9)<br>
 **результат задания 1**<br>
 ![image](https://github.com/DenisKorpach/University/assets/102619109/3f565ffb-168b-4cb6-afd3-22d0a89fc5c8)<br>
-**Результат задария 2**<br>
+**Результат задания 2**<br>
 ![image](https://github.com/DenisKorpach/University/assets/102619109/65a991a5-449e-4ae0-81b9-301e0501ce10)<br>
 **Граф** <br>
 ![image](https://github.com/DenisKorpach/University/assets/102619109/60720e8f-bc0e-48a9-abf9-a7b829f092df)
