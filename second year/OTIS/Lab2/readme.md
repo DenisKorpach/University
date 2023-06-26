@@ -106,7 +106,7 @@ end
 
 plot(1:temp, Yt)
 
-Вывод:
+**Вывод**:
 
 10.0
 
@@ -124,4 +124,6 @@ plot(1:temp, Yt)
 
 40.31392993073399
 
-39.965598922507816
+39.965598922507816<br>
+![image](https://github.com/DenisKorpach/University/assets/102619109/0a236eec-14a8-42fa-85c6-12433be3f6f6)
+
