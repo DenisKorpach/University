@@ -14,5 +14,6 @@
 приложений, обеспечивающих использование их объектов.
 
 **Пример работы программы:**
+![image](https://github.com/DenisKorpach/University/assets/102619109/a2c4a188-0cdb-4faa-828a-5559cb601638)
 
-![](media/image1.png){width="2.15625in" height="6.458333333333333in"}
+
