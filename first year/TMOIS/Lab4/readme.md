@@ -1,0 +1,3 @@
+﻿Algorithm Kruskals
+
+Algorithm Primas
